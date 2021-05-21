@@ -1,3 +1,4 @@
+# Variables Configuration File
 aws_key = "myKey"
 VPC_cidrBlock = "10.0.0.0/16"
 instanceTenancy = "default"

@@ -1,3 +1,4 @@
+# Variables that are used in complete Infrastructure
 variable "aws_key" {}
 variable "VPC_cidrBlock" {}
 variable "instanceTenancy" {}
